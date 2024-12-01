@@ -15,8 +15,8 @@
 Склонируйте проект:
 
 ```bash
-git clone <url-репозитория>
-cd <папка-репозитория>
+git clone https://github.com/uumk0n/smtp_tg_bot.git
+cd smtp_tg_bot
 ```
 
 ### 2. Создание виртуального окружения
